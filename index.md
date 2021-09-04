@@ -1,12 +1,6 @@
 ## 謝謝光臨跳蚤旅行社
 
-You can use the [editor on GitHub](https://github.com/seannnnx/FleaTravelAgency/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+非常感謝您願意參與我們提供的體驗，我們非常重視每位旅客的意見回饋，想邀請您在旅程的尾聲寫下您最真摯的回應。
 
 ```markdown
 Syntax highlighted code block
