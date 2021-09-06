@@ -1,6 +1,10 @@
-.abc{
-  text-align: center;
-  size:80%;
+.container{
+    width:800px; 
+    height:600px;     
+}
+
+.aut{
+    margin: auto;
 }
 
 .par{
