@@ -1,12 +1,15 @@
-.container{
-    width:800px; 
-    height:600px;     
+#container{
+    width:80%; 
+    height:6000px;
 }
 
-.aut{
+#aut{
     margin: auto;
+    text-align: center;    
+
 }
 
-.par{
+#par{
     font-size: 18px;
+    color: red;
 }
