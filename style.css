@@ -3,8 +3,7 @@
 }
 
 
-#nav-con2{
-}
+
 
 
 #container1{
@@ -36,7 +35,7 @@ nav{
 
 #nav-name{
     color: white;
-    font-size: 40px;
+    font-size: 48px;
 }
 
 .navbar {
@@ -45,6 +44,6 @@ nav{
 .brand {
     position: absolute;
     left: 50%;
-    margin-left: -50px !important;  /* 50% of your logo width */
+    margin-left: -120px !important;  /* 50% of your logo width */
     display: block;
 }
