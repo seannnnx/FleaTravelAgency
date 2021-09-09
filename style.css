@@ -2,14 +2,16 @@
     background-color: rgb(102,85,75);
 }
 
-
-
-
-
 #container1{
     width:80%; 
-    height:6000px;
+    height:300px;
 }
+
+#container2{
+    width:80%; 
+    height:800px;
+}
+
 
 #aut{
     position: relative;
